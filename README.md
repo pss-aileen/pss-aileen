@@ -1,8 +1,12 @@
-<h1 align="left">Hi 👋</h1>
+# Hi 👋
 
 <p align="left">My name is Aileen and I'm studying programming as a hobby.</p>
 
-<h2 align="left">I code with</h2>
+## My App
+
+💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/)
+
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />

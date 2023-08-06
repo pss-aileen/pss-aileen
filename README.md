@@ -6,6 +6,10 @@
 
 💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/)
 
+## Others
+
+📚 [PROGRAMMING NOTE](https://github.com/pss-aileen/programming-note)
+
 ## I code with
 
 <div align="left">

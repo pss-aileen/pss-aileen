@@ -8,7 +8,7 @@
 
 ## Others
 
-📚 [PROGRAMMING NOTE](https://pss-aileen.github.io/programming-note/)
+📚 [PROGRAMMING NOTE](https://pss-aileen.github.io/programming-note/)[(repository)](https://github.com/pss-aileen/programming-note)
 
 ## I code with
 

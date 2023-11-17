@@ -2,6 +2,11 @@
 
 <p align="left">My name is Aileen and I'm studying programming as a hobby.</p>
 
+## SNS
+
+[🐥 X](https://twitter.com/pss_aileen)
+/ [📖しずかなインターネット](https://sizu.me/pss_aileen)
+
 ## My App
 
 💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/)

@@ -5,15 +5,18 @@
 ## SNS
 
 [🐥 X](https://twitter.com/pss_aileen)
-/ [📖しずかなインターネット](https://sizu.me/pss_aileen)
+
+[📖しずかなインターネット](https://sizu.me/pss_aileen)
 
 ## My App
 
-💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/)
+🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repo](https://github.com/pss-aileen/project-profile-image-generator))
+
+💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/) ([repo](https://github.com/pss-aileen/diamond-painting_3x3))
 
 ## Others
 
-📚 [PROGRAMMING NOTE](https://pss-aileen.github.io/programming-note/) ([repository](https://github.com/pss-aileen/programming-note))
+📚 [PROGRAMMING NOTE](https://pss-aileen.github.io/programming-note/) ([repo](https://github.com/pss-aileen/programming-note))
 
 ## I code with
 

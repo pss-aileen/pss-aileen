@@ -10,6 +10,8 @@
 
 ## My App
 
+💕 [Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) ([repo](https://github.com/pss-aileen/project-github-commit-message))
+
 🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repo](https://github.com/pss-aileen/project-profile-image-generator))
 
 💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/) ([repo](https://github.com/pss-aileen/diamond-painting_3x3))

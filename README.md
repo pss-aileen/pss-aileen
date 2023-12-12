@@ -10,15 +10,15 @@
 
 ## My App
 
-💕 [Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) ([repo](https://github.com/pss-aileen/project-github-commit-message))
+💕 [Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) ([repository](https://github.com/pss-aileen/project-github-commit-message))
 
-🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repo](https://github.com/pss-aileen/project-profile-image-generator))
+🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repository](https://github.com/pss-aileen/project-profile-image-generator))
 
-💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/) ([repo](https://github.com/pss-aileen/diamond-painting_3x3))
+💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/) ([repository](https://github.com/pss-aileen/diamond-painting_3x3))
 
 ## Others
 
-📚 [PROGRAMMING NOTE](https://pss-aileen.github.io/programming-note/) ([repo](https://github.com/pss-aileen/programming-note))
+📚 [TIL(repository)](https://github.com/pss-aileen/TIL)
 
 ## I code with
 

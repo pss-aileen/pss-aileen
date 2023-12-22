@@ -16,7 +16,7 @@
 
 🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repository](https://github.com/pss-aileen/project-profile-image-generator))
 
-💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/diamond-painting_3x3/) ([repository](https://github.com/pss-aileen/diamond-painting_3x3))
+💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/project-diamond-painting-3x3/) ([repository](https://github.com/pss-aileen/project-diamond-painting-3x3))
 
 ## Others
 

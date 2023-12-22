@@ -10,6 +10,8 @@
 
 ## My App
 
+✈️ [Currency Converter with Shopping List](https://pss-aileen.github.io/project-shopping-list-currency-converter) ([repository](https://github.com/pss-aileen/project-shopping-list-currency-converter))
+
 💕 [Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) ([repository](https://github.com/pss-aileen/project-github-commit-message))
 
 🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repository](https://github.com/pss-aileen/project-profile-image-generator))

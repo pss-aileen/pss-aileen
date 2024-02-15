@@ -1,26 +1,8 @@
 # Hi 👋
 
-<p align="left">My name is Aileen and I'm studying programming as a hobby.</p>
+My name is Aileen and I'm studying programming as a hobby.
 
-## SNS
-
-[🐥 X](https://twitter.com/pss_aileen)
-
-[📖しずかなインターネット](https://sizu.me/pss_aileen)
-
-## My App
-
-✈️ [Currency Converter with Shopping List](https://pss-aileen.github.io/project-shopping-list-currency-converter) ([repository](https://github.com/pss-aileen/project-shopping-list-currency-converter))
-
-💕 [Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) ([repository](https://github.com/pss-aileen/project-github-commit-message))
-
-🎩 [PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) ([repository](https://github.com/pss-aileen/project-profile-image-generator))
-
-💎 [DIAMOND PAINTING MINI](https://pss-aileen.github.io/project-diamond-painting-3x3/) ([repository](https://github.com/pss-aileen/project-diamond-painting-3x3))
-
-## Others
-
-📚 [TIL(repository)](https://github.com/pss-aileen/TIL)
+Portfolio https://aileen-alpha.vercel.app/
 
 ## I code with
 

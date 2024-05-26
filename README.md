@@ -1,8 +1,27 @@
-# Hi 👋
+```javascript
+console.log("Hi 👋");
+console.log("My name is Aileen and I'm studying programming as a hobby.");
+```
 
-My name is Aileen and I'm studying programming as a hobby.
-
-Portfolio https://aileen-alpha.vercel.app/
+```javascript
+const profile = {
+  name: "Aileen",
+  location: ["Japan", "Around Asia"],
+  skills: {
+    languages: ["JavaScript", "PHP"],
+    frameworks: ["React", "Next.js", "Laravel"],
+    tools: ["GitHub", "VSCode", "Herd"],
+  },
+  projects: [
+    {
+      name: "First Contributions JA",
+      repo: "https://github.com/first-contributions-ja",
+      description: "Help Japanese beginners to contribute to open source projects",
+      role: ["Design", "Development"],
+    },
+  ],
+};
+```
 
 ###
 

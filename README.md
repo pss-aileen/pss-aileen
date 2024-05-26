@@ -1,7 +1,7 @@
 ```javascript
 /*-------------------------------------
  | WELCOME TO MY README!
- | Feel free to check my repositories if you're interested. :)
+ | Feel free to check my repositories if you're interested :)
  *------------------------------------*/
 ```
 

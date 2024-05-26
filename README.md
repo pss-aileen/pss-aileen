@@ -1,4 +1,11 @@
 ```javascript
+/*-------------------------------------
+ | WELCOME TO MY README!
+ | Feel free to check my repositories if you're interested. :)
+ *------------------------------------*/
+```
+
+```javascript
 console.log("Hi 👋");
 console.log("My name is Aileen and I'm studying programming as a hobby.");
 ```
@@ -23,7 +30,7 @@ const profile = {
 };
 ```
 
-###
+---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pss-aileen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

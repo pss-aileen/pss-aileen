@@ -1,6 +1,6 @@
 # Hi 👋 I'm Aileen from Japan 🇯🇵
 
-I'm studying programming.
+I'm learning programming. 
 
 ## 🎁 My Project
 

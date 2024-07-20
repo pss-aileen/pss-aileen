@@ -2,7 +2,7 @@
 
 I'm learning programming. My daily activities log is [here](https://github.com/pss-aileen/TIL) 📚
 
-### 🎁 My Project
+### 🔮 My Projects
 
 | Project | repo | language, library | last commit |
 |---|---|---|--|

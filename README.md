@@ -12,7 +12,7 @@ I'm learning programming. My daily activities log is [here](https://github.com/p
 | [👤 PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) | [repo](https://github.com/pss-aileen/project-profile-image-generator) | HTML, CSS, JavaScript | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/project-profile-image-generator?style=flat-square) |
 | [🛵 MakananDelight KL](https://pss-aileen.github.io/practice-bootstrap5-food-delivery/) | [repo](https://github.com/pss-aileen/practice-bootstrap5-food-delivery) | HTML, SCSS, JavaScript, Bootstrap 5, Swiper | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-bootstrap5-food-delivery?style=flat-square) |
 
-### Small Small projects
+### 🐝 Small Projects
 
 | Project | repo | language, library | last commit |
 |---|---|---|---|

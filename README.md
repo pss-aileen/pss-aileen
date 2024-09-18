@@ -1,12 +1,14 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="" width="200" height="200" align="left" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="heart face" width="180" height="180" align="left" />
 
-<br>
+##
 
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> I'm Aileen from Japan 🇯🇵
 
 I'm learning programming. My daily activities log is [here](https://github.com/pss-aileen/TIL) 📚
 
-<br><br>
+## 
+
+<br>
 
 ### 🔮 My Projects
 

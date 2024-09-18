@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="200" height="200" align="right" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="" width="200" height="200" align="left" />
 
 <br>
 
@@ -6,7 +6,7 @@
 
 I'm learning programming. My daily activities log is [here](https://github.com/pss-aileen/TIL) 📚
 
-<br>
+<br><br>
 
 ### 🔮 My Projects
 

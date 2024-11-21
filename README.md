@@ -10,7 +10,7 @@ I'm learning programming. My daily activities log is [here](https://github.com/p
 
 | Project | repo | language, library | last commit |
 |---|---|---|---|
-| [⭐️ Raiting Star](https://pss-aileen.github.io/library-rating-star/) | [repo](https://github.com/pss-aileen/library-rating-star) | TypeScript, Develop Library by myself | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/library-rating-star?style=flat-square) |
+| [⭐️ Rating Star](https://pss-aileen.github.io/library-rating-star/) | [repo](https://github.com/pss-aileen/library-rating-star) | TypeScript, Develop Library by myself | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/library-rating-star?style=flat-square) |
 | [:octocat: Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) | [repo](https://github.com/pss-aileen/project-github-commit-message) | TypeScript, React | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/project-github-commit-message?style=flat-square) |
 | [✍️ Todo List](https://pss-aileen.github.io/practice-react-todolist/) | [repo](https://github.com/pss-aileen/practice-react-todolist) | JavaScript, React, Material UI | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-react-todolist?style=flat-square) |
 | [🛍️ Product List](https://pss-aileen.github.io/practice-react-product-list/) | [repo](https://github.com/pss-aileen/practice-react-product-list) | JavaScript, React | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-react-product-list?style=flat-square) |

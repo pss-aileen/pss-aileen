@@ -4,29 +4,7 @@
 
 I'm learning programming. My daily activities log is [here](https://github.com/pss-aileen/TIL) 📚
 
-# 
-
-### 🔮 My Projects
-
-| Project | repo | language, library | last commit |
-|---|---|---|---|
-| [⭐️ Rating Star](https://pss-aileen.github.io/library-rating-star/) | [repo](https://github.com/pss-aileen/library-rating-star) | TypeScript, Develop Library by myself | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/library-rating-star?style=flat-square) |
-| [:octocat: Commit Easily](https://pss-aileen.github.io/project-github-commit-message/) | [repo](https://github.com/pss-aileen/project-github-commit-message) | TypeScript, React | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/project-github-commit-message?style=flat-square) |
-| [✍️ Todo List](https://pss-aileen.github.io/practice-react-todolist/) | [repo](https://github.com/pss-aileen/practice-react-todolist) | JavaScript, React, Material UI | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-react-todolist?style=flat-square) |
-| [🛍️ Product List](https://pss-aileen.github.io/practice-react-product-list/) | [repo](https://github.com/pss-aileen/practice-react-product-list) | JavaScript, React | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-react-product-list?style=flat-square) |
-| [🃏 Memory Game](https://pss-aileen.github.io/practice-react-memory-game/) | [repo](https://github.com/pss-aileen/practice-react-memory-game) | JavaScript, React | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-react-memory-game?style=flat-square) |
-| [🔮 Fortune](https://pss-aileen.github.io/practice-react-omikuji/) | [repo](https://github.com/pss-aileen/practice-react-omikuji) | JavaScript, React | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-react-omikuji?style=flat-square) |
-| [📖 この本いつ読めると？](https://pss-aileen.github.io/project-when-can-i-read-the-book/) | [repo](https://github.com/pss-aileen/project-when-can-i-read-the-book) | TypeScript | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/project-when-can-i-read-the-book?style=flat-square) |
-| [💎 Diamond Painting Mini](https://pss-aileen.github.io/project-diamond-painting-3x3/) | [repo](https://github.com/pss-aileen/project-diamond-painting-3x3) | JavaScript | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/project-diamond-painting-3x3?style=flat-square) |
-| [👤 PROFILE IMAGE GENERATOR](https://pss-aileen.github.io/project-profile-image-generator/) | [repo](https://github.com/pss-aileen/project-profile-image-generator) | JavaScript | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/project-profile-image-generator?style=flat-square) |
-| [🛵 MakananDelight KL](https://pss-aileen.github.io/practice-bootstrap5-food-delivery/) | [repo](https://github.com/pss-aileen/practice-bootstrap5-food-delivery) | JavaScript, SCSS, Bootstrap 5, Swiper | ![GitHub last commit](https://img.shields.io/github/last-commit/pss-aileen/practice-bootstrap5-food-delivery?style=flat-square) |
-
-### 🫶 Open Source Project
-
-| Project | Stars | Forks |
-|---|---|---|
-| [First Contributions JA](https://github.com/first-contributions-ja/first-contributions-ja.github.io) | ![GitHub Repo stars](https://img.shields.io/github/stars/first-contributions-ja/first-contributions-ja.github.io?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/first-contributions-ja/first-contributions-ja.github.io?style=flat-square) | 
-
+### 👉 [portfolio website](https://pss-aileen.vercel.app/)
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
 

@@ -4,7 +4,7 @@
 
 I'm learning programming. My daily activities log is [here](https://github.com/pss-aileen/TIL) 📚
 
-### 👉 [portfolio website](https://pss-aileen.vercel.app/)
+### 🏠 [portfolio website](https://pss-aileen.vercel.app/)
 <!-- https://shields.io/badges/git-hub-repo-stars -->
 
 

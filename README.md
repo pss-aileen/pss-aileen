@@ -7,8 +7,6 @@
 
 ###  [https://pss-aileen.vercel.app/](https://pss-aileen.vercel.app/) 
 
-#### ✨🍫 Happy Valentine 💕✨
-
 
 <br>
 

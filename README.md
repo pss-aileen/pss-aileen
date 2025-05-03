@@ -5,9 +5,6 @@
 
 ### Hi, I'm Aileen 👩‍💻💕
 
-###  [https://pss-aileen.vercel.app/](https://pss-aileen.vercel.app/) 
-
-
 <br>
 
 <!-- https://shields.io/badges/git-hub-repo-stars -->
